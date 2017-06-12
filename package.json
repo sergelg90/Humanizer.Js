@@ -1,0 +1,24 @@
+{
+  "name": "humanizer-ts",
+  "version": "0.1.0",
+  "description": "A port of [Humanizer](https://github.com/MehdiK/Humanizer), based on [Humanizer.Js](https://github.com/SamuelEnglard/Humanizer.Js).",
+  "main": "humanizer.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergelg90/Humanizer.Js.git"
+  },
+  "keywords": [
+    "humanizer",
+    "TypeScript",
+    "inflection"
+  ],
+  "author": "Sergio Leon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergelg90/Humanizer.Js/issues"
+  },
+  "homepage": "https://github.com/sergelg90/Humanizer.Js#readme"
+}
