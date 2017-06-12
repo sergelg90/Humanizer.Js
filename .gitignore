@@ -177,3 +177,4 @@ Properties/
 *.csproj
 *.sln
 .vs/
+dist/**/*

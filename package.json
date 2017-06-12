@@ -1,8 +1,8 @@
 {
   "name": "humanizer-ts",
   "version": "0.1.0",
-  "description": "A port of [Humanizer](https://github.com/MehdiK/Humanizer), based on [Humanizer.Js](https://github.com/SamuelEnglard/Humanizer.Js).",
-  "main": "humanizer.ts",
+  "description": "A port of [Humanizer](https://github.com/MehdiK/Humanizer) to TypeScript, based on [Humanizer.Js](https://github.com/SamuelEnglard/Humanizer.Js).",
+  "main": "humanizer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/sergelg90/Humanizer.Js/issues"
   },
-  "homepage": "https://github.com/sergelg90/Humanizer.Js#readme"
+  "homepage": "https://github.com/sergelg90/Humanizer.Js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.7",
+    "typescript": "^2.3.4"
+  }
 }
